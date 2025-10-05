@@ -11,7 +11,7 @@
 - 👨‍💻 **Pradeep Solanki** — Developer  
   - [GitHub](https://github.com/imPradeepSingh034/Selastra25-DeepDive-NASA-HACKHATHON2025)  
 - 👨‍💻 **Kush Gupta** — Developer  
-  - [LinkedIn](https://www.linkedin.com/in/mekushgupta/)  
+  - [GitHub](https://github.com/codingkush) 
 - 🎨 **Komal Kumari** — Designer  
   - [GitHub](http://github.com/KomalKumari140)  
 - 🧠 **Anshika Singh** — Research & Content  
