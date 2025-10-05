@@ -7,15 +7,25 @@
 
 **Members & Profiles:**  
 - 🧑‍🚀 **Kush Kumar** — Team Leader & Developer  
-  - [GitHub](https://github.com/RtKush)  
+  - [GitHub](https://github.com/RtKush)
+  - ![12](https://github.com/user-attachments/assets/85cc4e21-7057-4ea4-ab0c-b3579f717153)
+
 - 👨‍💻 **Pradeep Solanki** — Developer  
-  - [GitHub](https://github.com/imPradeepSingh034/Selastra25-DeepDive-NASA-HACKHATHON2025)  
+  - [GitHub](https://github.com/imPradeepSingh034/Selastra25-DeepDive-NASA-HACKHATHON2025)
+  - ![pradeep](https://github.com/user-attachments/assets/2c64ac0e-26c8-4e52-8933-b752660a133b)
+
 - 👨‍💻 **Kush Gupta** — Developer  
-  - [GitHub](https://github.com/codingkush) 
+  - [GitHub](https://github.com/codingkush)
+  - ![WhatsApp Image 2025-10-05 at 14 36 17_195cd13f](https://github.com/user-attachments/assets/dce44b20-005e-462f-bc6e-1955681329b1)
+
 - 🎨 **Komal Kumari** — Designer  
-  - [GitHub](http://github.com/KomalKumari140)  
+  - [GitHub](http://github.com/KomalKumari140)
+  - <img width="543" height="550" alt="kk" src="https://github.com/user-attachments/assets/82069d79-1b31-486e-a57e-3640d4b02840" />
+
 - 🧠 **Anshika Singh** — Research & Content  
-  - [GitHub](https://github.com/anshikasingh28072006)  
+  - [GitHub](https://github.com/anshikasingh28072006)
+  - <img width="430" height="478" alt="as" src="https://github.com/user-attachments/assets/dda870b0-b9e6-4f1a-8a2d-5af168b397a1" />
+
 
 🔗 **Live Prototype:** [Deep Dive Web Experience](https://3d-solar-system-three-js-gammavercel.netlify.app/)  
 🎨 **PPT / Design Link:** [Canva Presentation](https://www.canva.com/design/DAG05fn17ac/c9mdnCcvNXT6B89W8o8NWw/view?utm_content=DAG05fn17ac&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf99039a92e)
