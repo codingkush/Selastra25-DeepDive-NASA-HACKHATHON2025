@@ -16,7 +16,8 @@
 
 - 👨‍💻 **Kush Gupta** — Developer  
   - [GitHub](https://github.com/codingkush)
-  - ![WhatsApp Image 2025-10-05 at 14 36 17_195cd13f](https://github.com/user-attachments/assets/dce44b20-005e-462f-bc6e-1955681329b1)
+  ![WhatsApp Image 2025-10-05 at 14 36 17_195cd13f](https://github.com/user-attachments/assets/3a5313b6-948b-4149-a0ab-bc5d941eeeb1)
+
 
 - 🎨 **Komal Kumari** — Designer  
   - [GitHub](http://github.com/KomalKumari140)
