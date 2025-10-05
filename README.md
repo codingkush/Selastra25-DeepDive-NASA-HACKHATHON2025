@@ -7,25 +7,27 @@
 
 **Members & Profiles:**  
 - 🧑‍🚀 **Kush Kumar** — Team Leader & Developer  
-  - [GitHub](https://github.com/RtKush)
-  - ![12](https://github.com/user-attachments/assets/85cc4e21-7057-4ea4-ab0c-b3579f717153)
+  - [GitHub](https://github.com/RtKush)![12](https://github.com/user-attachments/assets/f1ac5d81-7092-433d-81ef-aa87f9362814)
+
 
 - 👨‍💻 **Pradeep Solanki** — Developer  
-  - [GitHub](https://github.com/imPradeepSingh034/Selastra25-DeepDive-NASA-HACKHATHON2025)
-  - ![pradeep](https://github.com/user-attachments/assets/2c64ac0e-26c8-4e52-8933-b752660a133b)
+  - [GitHub](https://github.com/imPradeepSingh034/Selastra25-DeepDive-NASA-HACKHATHON2025)![pradeep](https://github.com/user-attachments/assets/b1221fd6-a520-4ee3-bb37-e75ffb932649)
+
 
 - 👨‍💻 **Kush Gupta** — Developer  
   - [GitHub](https://github.com/codingkush)
-  ![WhatsApp Image 2025-10-05 at 14 36 17_195cd13f](https://github.com/user-attachments/assets/3a5313b6-948b-4149-a0ab-bc5d941eeeb1)
+
+![WhatsApp Image 2025-10-05 at 14 36 17_195cd13f](https://github.com/user-attachments/assets/90d7e9fd-380d-4bad-91f0-54e4e0c387c7)
+
 
 
 - 🎨 **Komal Kumari** — Designer  
-  - [GitHub](http://github.com/KomalKumari140)
-  - <img width="543" height="550" alt="kk" src="https://github.com/user-attachments/assets/82069d79-1b31-486e-a57e-3640d4b02840" />
+  - [GitHub](http://github.com/KomalKumari140)<img width="108" height="110" alt="kk" src="https://github.com/user-attachments/assets/bf9a16c3-19c0-4d19-aabf-d410c307637c" />
+
 
 - 🧠 **Anshika Singh** — Research & Content  
-  - [GitHub](https://github.com/anshikasingh28072006)
-  - <img width="430" height="478" alt="as" src="https://github.com/user-attachments/assets/dda870b0-b9e6-4f1a-8a2d-5af168b397a1" />
+  - [GitHub](https://github.com/anshikasingh28072006)<img width="86" height="95" alt="as" src="https://github.com/user-attachments/assets/5c644ae4-bdb0-4335-9ba0-201330de16ec" />
+
 
 
 🔗 **Live Prototype:** [Deep Dive Web Experience](https://3d-solar-system-three-js-gammavercel.netlify.app/)  
