@@ -28,6 +28,12 @@
 🔗 **Live Prototype:** [Deep Dive Web Experience](https://3d-solar-system-three-js-gammavercel.netlify.app/)  
 🎨 **PPT / Design Link:** [Canva Presentation](https://www.canva.com/design/DAG05fn17ac/c9mdnCcvNXT6B89W8o8NWw/view?utm_content=DAG05fn17ac&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf99039a92e)
 
+📹 **Demo Video:**  
+[![Watch the Demo](assets/demo-frame.png)](https://drive.google.com/file/d/1uSmtQZ0s3kVX5hT_vlBCtscLvsxyfVK-/view?usp=drive_link)
+
+
+
+
 ---
 
 ## 🚀 Project Overview
