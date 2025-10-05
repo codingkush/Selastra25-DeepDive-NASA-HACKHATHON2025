@@ -31,6 +31,7 @@
 📹 **Demo Video:**  
 [![Watch the Demo](assets/demo-frame.png)](https://drive.google.com/file/d/1uSmtQZ0s3kVX5hT_vlBCtscLvsxyfVK-/view?usp=drive_link)
 
+[![Demo](https://github.com/username/repo-name/assets/demo.gif)](https://drive.google.com/file/d/1uSmtQZ0s3kVX5hT_vlBCtscLvsxyfVK-/view?usp=drive_link)
 
 
 
