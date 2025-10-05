@@ -7,26 +7,21 @@
 
 **Members & Profiles:**  
 - 🧑‍🚀 **Kush Kumar** — Team Leader & Developer  
-  - [GitHub](https://github.com/RtKush)![12](https://github.com/user-attachments/assets/f1ac5d81-7092-433d-81ef-aa87f9362814)
-
+  - [GitHub](https://github.com/RtKush)
 
 - 👨‍💻 **Pradeep Solanki** — Developer  
-  - [GitHub](https://github.com/imPradeepSingh034/Selastra25-DeepDive-NASA-HACKHATHON2025)![pradeep](https://github.com/user-attachments/assets/b1221fd6-a520-4ee3-bb37-e75ffb932649)
+  - [GitHub](https://github.com/imPradeepSingh034/Selastra25-DeepDive-NASA-HACKHATHON2025)
 
 
 - 👨‍💻 **Kush Gupta** — Developer  
   - [GitHub](https://github.com/codingkush)
 
-![WhatsApp Image 2025-10-05 at 14 36 17_195cd13f](https://github.com/user-attachments/assets/90d7e9fd-380d-4bad-91f0-54e4e0c387c7)
-
-
 
 - 🎨 **Komal Kumari** — Designer  
-  - [GitHub](http://github.com/KomalKumari140)<img width="108" height="110" alt="kk" src="https://github.com/user-attachments/assets/bf9a16c3-19c0-4d19-aabf-d410c307637c" />
-
+  - [GitHub](http://github.com/KomalKumari140)
 
 - 🧠 **Anshika Singh** — Research & Content  
-  - [GitHub](https://github.com/anshikasingh28072006)<img width="86" height="95" alt="as" src="https://github.com/user-attachments/assets/5c644ae4-bdb0-4335-9ba0-201330de16ec" />
+  - [GitHub](https://github.com/anshikasingh28072006)
 
 
 
