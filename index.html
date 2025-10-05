@@ -17,7 +17,6 @@
 </script>
   <style>
     :root {
-      /* NASA Official Colors */
       --nasa-blue: #0b3d91;
       --nasa-red: #337a17;
       --nasa-white: #ffffff;
@@ -25,7 +24,6 @@
       --nasa-dark-gray: #5a6670;
       --nasa-black: #000000;
       
-      /* Space Themed Colors */
       --deep-space: #000814;
       --cosmic-blue: #001d3d;
       --star-gold: #ffd60a;
@@ -35,7 +33,6 @@
       --planet-green: #2a9d8f;
       --ring-saturn: #e9c46a;
       
-      /* UI Colors */
       --panel-bg: rgba(11, 61, 145, 0.85);
       --panel-border: rgba(255, 214, 10, 0.3);
       --button-primary: linear-gradient(135deg, var(--nasa-blue), var(--cosmic-blue));
@@ -59,7 +56,7 @@
     
     canvas { display: block; }
     
-    /* Mission Control panel - NASA themed */
+    /* Mission Control Panel */
     .controls {
       position: absolute;
       top: 15px;
@@ -402,7 +399,6 @@
       opacity: 0.8;
     }
 
-    /* Planet name labels in 3D space */
     .planet-label {
       position: absolute;
       background: rgba(11, 61, 145, 0.9);
@@ -440,7 +436,6 @@
       transition: opacity 0.3s ease;
     }
 
-    /* Custom scrollbar */
     .celestial-content::-webkit-scrollbar {
       width: 4px;
     }
@@ -455,7 +450,6 @@
       border-radius: 2px;
     }
 
-    /* Custom scrollbar for mission control */
     .control-content::-webkit-scrollbar {
       width: 4px;
     }
@@ -470,12 +464,11 @@
       border-radius: 2px;
     }
 
-    /* Special Events Panel - positioned directly below Celestial Bodies panel */
     #specialEventsControls {
       position: absolute;
-      right: 15px; /* Initial position, will be updated by JavaScript */
+      right: 15px;
       left: auto;
-      top: 380px; /* Initial position, will be updated by JavaScript */
+      top: 380px; 
       background: var(--panel-bg);
       color: var(--nasa-white);
       border-radius: 6px;
@@ -491,7 +484,6 @@
       font-family: 'Titillium Web', sans-serif;
     }
 
-    /* UI Hide/Show functionality */
     .ui-hidden {
       opacity: 0;
       pointer-events: none;
@@ -499,7 +491,6 @@
       transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
     }
 
-    /* Floating Music Control */
     .floating-music-control {
       position: fixed;
       bottom: 80px;
@@ -538,7 +529,6 @@
       transform: scale(0.95);
     }
 
-    /* Mobile responsiveness for floating controls */
     @media (max-width: 768px) {
       .floating-music-control {
         bottom: 70px;
