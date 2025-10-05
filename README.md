@@ -115,7 +115,7 @@ Backend (Node.js + Express)
 ↓
 NASA Open APIs (PACE / SWOT / GRACE-FO)
 
-
+```
 <details>
   <summary>🧭 Future Vision</summary>
 
